@@ -23,7 +23,7 @@
   "dependencies": {
     "@types/config": "0.0.36",
     "@types/del": "^4.0.0",
-    "async": "^2.6.3",
+    "async": "^2.6.4",
     "body-parser": "^1.18.2",
     "botbuilder": "^3.14.0",
     "botbuilder-teams": "0.1.7",
